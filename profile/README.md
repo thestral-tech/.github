@@ -8,10 +8,10 @@ We excel at working with the kind of high-frequency data commonly found in these
 What we offer, is a single centralized solution for everything related to data.
 
 A few of the major benefits:
-- Quick & Easy Visualizations
+- Quick & easy visualizations
 - Compatibility with various data formats
-- AI-supported Report Generation
+- AI-assisted report generation
 - Querying across thousands of datasets
 
 ### Reach out to us
-If you are interested in data solutions or want to keep up with our latest innovations reach out to us via [the contact form on our website](https://thestral.tech)
+If you are interested in data solutions or want to keep up with our latest innovations, reach out to us via [the contact form on our website](https://thestral.tech)
