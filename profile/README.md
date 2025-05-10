@@ -16,4 +16,4 @@ A few of the major benefits:
 - ...
 
 ### Reach out to us
-If you are interested in data solutions or want to keep up with our latest innovations reach out to us via (the contact form on our website)[https://thestral.tech]
+If you are interested in data solutions or want to keep up with our latest innovations reach out to us via [the contact form on our website](https://thestral.tech)
