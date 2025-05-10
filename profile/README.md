@@ -1,4 +1,4 @@
-## About the company
+# About the company
 The team behind Thestral Technology consists of passionate young engineers with innovative ideas and a vision to disrupt the engineering industry.
 The product "metior" will be completely change to way how engineers interact with data. It will provide a seamless experience for data visualization, suitable for engineers working in every major industry.
 
